@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
+
 Computational Psychiatry
 ======
 
