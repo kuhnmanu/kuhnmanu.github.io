@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![comPsychLogo](https://github.com/kuhnmanu/kuhnmanu.github.io/blob/master/images/logo.png)
+![comPsychLogo]([https://github.com/kuhnmanu/kuhnmanu.github.io/blob/master/images/logo.png](https://github.com/kuhnmanu/kuhnmanu.github.io/tree/master/images))
 
 This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
 
