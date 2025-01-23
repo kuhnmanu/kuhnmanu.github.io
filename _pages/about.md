@@ -19,12 +19,9 @@ Biological Psychiatry lies at the heart of my research, providing a critical fra
 
 Experimental Psychopathology
 ======
-Experimental Psychopathology provides a translational framework for illuminating the complexities of anxiety, mood disorders, and stress—bridging the gap from animal models to human clinical research, and ultimately from bench to bedside. By integrating neuroimaging, psychophysiology, and self-report measures within innovative experimental task designs, my work captures a holistic view of the biological, psychological, and behavioral processes underpinning mental health. This approach not only refines our understanding of underlying mechanisms but also fosters the development of more targeted, evidence-based interventions.
+Experimental Psychopathology provides a translational framework for illuminating the complexities of anxiety, mood disorders, and stress—bridging the gap from animal models to human clinical research, and ultimately from bench to bedside. By integrating neuroimaging, psychophysiology, psychopharmacology and self-report measures within innovative experimental task designs, my work captures a holistic view of the biological, psychological, and behavioral processes underpinning mental health. This approach not only refines our understanding of underlying mechanisms but also fosters the development of more targeted, evidence-based interventions.
 
-Psychopharmacology
-======
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
