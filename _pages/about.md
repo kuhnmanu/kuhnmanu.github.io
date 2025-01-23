@@ -9,6 +9,10 @@ redirect_from:
 
 ![CompPsychLogo](/images/logo.png)
 
+<p align="center">
+  <img src="/images/logo.png" alt="test"/>
+</p>
+
 This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
 
 Computational Psychiatry
