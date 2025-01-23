@@ -15,6 +15,7 @@ This website is work in progress. For questions, please contact: mkuhn@mclean.ha
 
 Computational Psychiatry
 ======
+Biological Psychiatry lies at the heart of my research, providing a critical framework for understanding how our genes, brain circuitry, and physiological responses interact to shape mental health. By exploring the biological roots of anxiety, mood disorders, and stress, my work aims to identify the specific molecular and neural mechanisms that underlie these conditions. Through integrating cutting-edge techniques in neuroscience and translational research, I strive to develop more precise, effective interventions—ultimately improving outcomes for individuals grappling with mental health challenges.
 
 Translational Work
 ======
