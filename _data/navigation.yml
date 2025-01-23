@@ -12,7 +12,7 @@ main:
   #  url: /projects/
 
   - title: "Projects"
-    url: /protfolio/
+    url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
