@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![https://github.com/kuhnmanu/kuhnmanu.github.io/blob/master/images/logo.png](https://github.com/kuhnmanu/kuhnmanu.github.io/tree/master/images)
+![https://github.com/kuhnmanu/kuhnmanu.github.io/blob/master/images/logo.png](https://github.com/kuhnmanu/kuhnmanu.github.io/tree/master/images/logo.png)
 
 This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
 
