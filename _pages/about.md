@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Manuel Kuhn, Ph.D.'s personal website"
+title: "About My Research Program"
 author_profile: true
 redirect_from: 
   - /about/
