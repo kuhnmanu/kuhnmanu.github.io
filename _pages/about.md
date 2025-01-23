@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![CompPsychLogo](/images/logo.png)
-
 <p align="center">
-  <img src="/images/logo.png" alt="test"/>
+  <img src="/images/logo.png" alt="CompPsychLogo"/>
 </p>
 
 This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
