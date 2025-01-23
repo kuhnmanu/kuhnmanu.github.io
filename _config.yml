@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Manuel Kuhn / Site Title"
+title                    : "Manuel Kuhn, Ph.D."
 title_separator          : "-"
 name                     : &name "Manuel"
 description              : &description "personal description"
