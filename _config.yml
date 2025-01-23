@@ -22,10 +22,9 @@ repository               : "kuhnmanu/kuhnmanu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School."
-  bio              : "Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School.
-                     
-                      Director, Neuroimaging and Instrumentation Core, Laboratory for Affective and Translational Neuroscience.
+  name             : "Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School"
+  bio              : #"Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School.
+                     "Director, Neuroimaging and Instrumentation Core, Laboratory for Affective and Translational Neuroscience
                       
                       McLean Hospital | Francis de Marneffe Building | Room 233B
                       115 Mill Street, Belmont, MA 02478-9106"
