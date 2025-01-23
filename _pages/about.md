@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About My Research Program"
+title: "About My Research"
 author_profile: true
 redirect_from: 
   - /about/
