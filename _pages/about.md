@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/logo.png" alt="CompPsychLogo" width="100">
+  <img src="/images/logo.png" alt="CompPsychLogo" width="300">
 </p>
 
 This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
