@@ -2,9 +2,9 @@
 title: "Linking Behavior to Neural Activity - Applications of Functional Magnetic Resonance Imaging and Computational Psychiatry"
 collection: talks
 type: "Guest lecture"
-permalink: /talks/1/30/2025-lecture-1
+permalink: /talks/2025-01-30-lecture-1
 venue: "Massachusetts Institute of Technology (MIT), Department of Computer Science"
-date: 1/30/2025
+date: 2025-01-30
 location: "Cambridge, Massachusetts, USA"
 ---
 
