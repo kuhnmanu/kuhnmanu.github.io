@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="yourfile.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/images/Kuhn_Manuel_CV_HMS_20250324.pdf" width="100%" height="600px">
 
 <!--
 Education
