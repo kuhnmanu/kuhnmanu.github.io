@@ -12,12 +12,16 @@ redirect_from:
    <img src="/images/logo2.jpg" alt="CompPsychLogo">
 </p>
 
-This website is work in progress. For questions, please contact: mkuhn@mclean.harvard.edu
+I am a Senior Researcher at the Institute of Medical Psychology at Charité – Universitätsmedizin Berlin (PI: Christine Heim, PhD). Before moving to Berlin, I was an Instructor in Psychiatry at Harvard Medical School and Director of the Neuroimaging and Instrumentation Core in the Laboratory for Affective and Translational Neuroscience at McLean Hospital (PI: Diego A. Pizzagalli, PhD), following postdoctoral positions at the University of Maryland and the University Medical Center Hamburg-Eppendorf. For questions, please contact: manuel.kuhn@charite.de
 
 Computational Psychiatry
 ======
-Biological Psychiatry lies at the heart of my research, providing a critical framework for understanding how our genes, brain circuitry, and physiological responses interact to shape mental health. By exploring the biological roots of anxiety, mood disorders, and stress, my work aims to identify the specific molecular and neural mechanisms that underlie these conditions. Through integrating cutting-edge techniques in neuroscience and translational research, I strive to develop more precise, effective interventions—ultimately improving outcomes for individuals grappling with mental health challenges.
+Biological Psychiatry lies at the heart of my research, providing a critical framework for understanding how our genes, brain circuitry, and physiological responses interact to shape mental health. By exploring the biological roots of anxiety, mood disorders, and stress, my work aims to identify the specific molecular and neural mechanisms that underlie these conditions. Using computational modeling of behavior and neural activity, I derive precise, mechanistic phenotypes of stress, reward, and threat processing — for example, in individuals with current or remitted depression. Through integrating these cutting-edge techniques in neuroscience and translational research, I strive to develop more precise, effective interventions—ultimately improving outcomes for individuals grappling with mental health challenges.
 
 Experimental Psychopathology
 ======
 Experimental Psychopathology provides a translational framework for illuminating the complexities of anxiety, mood disorders, and stress—bridging the gap from animal models to human clinical research, and ultimately from bench to bedside. By integrating neuroimaging, psychophysiology, psychopharmacology and self-report measures within innovative experimental task designs, my work captures a holistic view of the biological, psychological, and behavioral processes underpinning mental health. This approach not only refines our understanding of underlying mechanisms but also fosters the development of more targeted, evidence-based interventions.
+
+Stress & Early-Life Adversity
+======
+A central thread of my work concerns how stress — both early in life and in the present — shapes vulnerability to psychopathology. My research has examined how the timing of life adversity differentially affects brain structure and anxious temperament, how acute stress alters decision-making and reward processing, and how psychobiological stress response profiles differ across individuals with current and remitted depression. At the Institute of Medical Psychology, I build on this foundation to investigate the early programming of disease vulnerability and the psychoendocrine and psychoimmunological mechanisms linking stress to mental and physical health.
