@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Manuel Kuhn, Ph.D."
 title_separator          : "-"
 name                     : &name "Manuel"
-description              : &description "personal description"
+description              : &description "Manuel Kuhn, Ph.D. — Senior Researcher at the Institute of Medical Psychology, Charité – Universitätsmedizin Berlin. Computational psychiatry, experimental psychopathology, stress, fear and reward processing."
 url                      : https://kuhnmanu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuhnmanu/kuhnmanu.github.io"
@@ -22,16 +22,16 @@ repository               : "kuhnmanu/kuhnmanu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School"
-  bio              : #"Instructor in Psychiatry, Department of Psychiatry, Harvard Medical School.
-                     "Director, Neuroimaging and Instrumentation Core, Laboratory for Affective and Translational Neuroscience
+  name             : "Senior Researcher, Institute of Medical Psychology, Charité – Universitätsmedizin Berlin"
+  bio              : "Institute of Medical Psychology
                       
-                      McLean Hospital | Francis de Marneffe Building | Room 233B
-                      115 Mill Street, Belmont, MA 02478-9106"
-  location         : "Boston, USA"
-  employer         : "Harvard Medical School"
-  URI              : "https://cdasr.mclean.harvard.edu/kuhn/" # URL
-  email            : "mkuhn@mclean.harvard.edu" 
+                      Charité – Universitätsmedizin Berlin
+                      
+                      Luisenstr. 57, 10117 Berlin, Germany"
+  location         : "Berlin, Germany"
+  employer         : "Charité – Universitätsmedizin Berlin"
+  URI              : # URL
+  email            : "manuel.kuhn@charite.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -79,12 +79,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Research Articles'
+  reviews:
+    title: 'Reviews & Other Peer-Reviewed Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
