@@ -178,6 +178,13 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - _config_docker.yml
+  - markdown_generator
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
