@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ base_path }}/images/Kuhn_Manuel_CV_HMS_public.pdf" class="btn btn--primary">Download CV (PDF)</a></p>
+<p><a href="{{ base_path }}/files/Kuhn_Manuel_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+<span style="margin-left:0.75em; color:#767676;">Last updated: May 2026</span></p>
 
-<embed src="{{ base_path }}/images/Kuhn_Manuel_CV_HMS_public.pdf" type="application/pdf" width="100%" height="800px">
+<embed src="{{ base_path }}/files/Kuhn_Manuel_CV.pdf" type="application/pdf" width="100%" height="800px">
 
 <p><em>If the CV does not display in your browser, use the download link above.</em></p>
